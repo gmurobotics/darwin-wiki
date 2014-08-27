@@ -23,4 +23,8 @@ Cheatsheet for markup:
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+Git tutorial
+
+http://git-scm.com/docs/gittutorial
+
 Thanks!
