@@ -16,6 +16,7 @@ git clone git@github.com:dwicke/darwin-wiki.wiki.git
 Some helpful resources on how to use github's wiki in a more git style if you're interested:
 
 https://help.github.com/articles/adding-and-editing-wiki-pages-locally
+
 https://help.github.com/articles/using-pull-requests
 
 Cheatsheet for markup:
