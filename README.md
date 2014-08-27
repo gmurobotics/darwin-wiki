@@ -3,14 +3,23 @@ darwin-wiki
 
 Wiki on the Robotis Darwin OP
 
-The purpose of this wiki is to provide users of the Darwin OP a location for collecting, discussing and contributing both software and hardware for jumpstarting their research and helping to grow the darwin community.
+The purpose of this wiki is to provide Darwin OP users a location for collecting, discussing and contributing links or content on both software and hardware to do with Darwin-OPs.
 
-https://github.com/dwicke/darwin-wiki/wiki  General software solutions for vision calibration, automatic servo calibration tools and hardware hacks such replacing the camera, or schematics for battery and helmet are just a few subjects we would like to see on the wiki.  Also, interested in different code bases for bootstraping the development process, installation guides/tips.
+https://github.com/dwicke/darwin-wiki/wiki  -- location of the wiki
 
-It is also a place to discuss problems and issues in order to develop solutions.  That process should begin in the issues area https://github.com/dwicke/darwin-wiki/issues.  Once a solution to the issue is created a new wiki page or a modification to a page should be developed.
+Another possible use could be a place to discuss problems and issues in order to develop solutions.  That process could begin in the issues area https://github.com/dwicke/darwin-wiki/issues.  Once a solution to the issue is found, a new wiki page or a page could be added to.
 
-Currently since the George Mason Robotics lab is the only participant (me and David) we will post the solutions we have developed to various problems we have encountered.
+Note that anyone with a github account can add to the wiki or the issues pages without having to be added as a contributor to this repo.  Also, the wiki can be cloned by doing:
 
-Note that anyone with a github account can add to the wiki or the issues pages without having to be added as a contributor to this repo.
+git clone git@github.com:dwicke/darwin-wiki.wiki.git
+
+Some helpful resources on how to use github's wiki in a more git style if you're interested:
+
+https://help.github.com/articles/adding-and-editing-wiki-pages-locally
+https://help.github.com/articles/using-pull-requests
+
+Cheatsheet for markup:
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 Thanks!
