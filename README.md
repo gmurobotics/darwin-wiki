@@ -9,15 +9,15 @@ https://github.com/dwicke/darwin-wiki/wiki  -- location of the wiki
 
 Feel free to use https://github.com/dwicke/darwin-wiki/issues.
 
-Note that anyone with a github account can add to the wiki or the issues pages without having to be added as a contributor to this repo.  Also, the wiki can be cloned by doing:
+Note that anyone with a github account can add to the wiki or the issues pages without having to be added as a contributor to this repo.  This is the recommended approach as to reduce any merging problems.
+
+
+Also, the wiki can be cloned by doing:
 
 git clone git@github.com:dwicke/darwin-wiki.wiki.git
 
-Some helpful resources on how to use github's wiki in a more git style if you're interested:
+Note pushing is only available to collaborators.  Email me your github username (see my profile https://github.com/dwicke/ for my email) and ask to be a collaborator.
 
-https://help.github.com/articles/adding-and-editing-wiki-pages-locally
-
-https://help.github.com/articles/using-pull-requests
 
 Cheatsheet for markup:
 
