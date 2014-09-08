@@ -16,8 +16,7 @@ Also, the wiki can be cloned by doing:
 
 git clone git@github.com:gmurobotics/darwin-wiki.wiki.git
 
-Note pushing is only available to collaborators.  Email me your github username (see my profile https://github.com/gmurobotics/ for my email) and ask to be a collaborator.
-
+Note pushing is only available to collaborators.
 
 Cheatsheet for markup:
 
